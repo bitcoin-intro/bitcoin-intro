@@ -168,7 +168,7 @@ Note: Running a node only benefits you if you use your node to send and receive 
 
 ## Step 12. Buying Privately
 
-The services in Step 2 are not private (except for Azteco, which is). It is worth considering more private options for further buying.
+The services in Step 12 are not private (except for Azteco, which is). It is worth considering more private options for further buying.
 
 ##### BISQ
 0. <a href="https://bisq.network/downloads/" target="_blank">Download</a> & Install BISQ
